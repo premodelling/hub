@@ -118,7 +118,6 @@ and
 
 ## References
 
-<br>
 
 ### Papers
 
