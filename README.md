@@ -59,7 +59,6 @@ Is SSH running?
 ```
 
 <br>
-<br>
 
 ### Installations
 
